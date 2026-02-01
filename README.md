@@ -3,100 +3,76 @@
 
 <h3>Khu học mở - Xã hội học</h3>
 <p>
-  Chương trình tự học ngành Xã hội học.
+Chương trình tự học ngành Xã hội học.
 </p>
 <p>
-  <a href="https://github.com/daihocmo/xa-hoi-hoc">
-    <img alt="Xem thông tin dự án trên Github" src="/tu-hoc-dai-hoc/images/view_on_github.svg"
-  ></a>
+<a href="https://github.com/daihocmo/xa-hoi-hoc">
+<img alt="Xem thông tin dự án trên Github" src="/tu-hoc-dai-hoc/images/view_on_github.svg"
+></a>
 </p>
 </div>
 
-# Giới thiệu
-
-Đây là một chương trình tự học chuyên ngành Xã hội học.
-
-(_Vẫn đang trong quá trình hoàn thiện và tìm tài nguyên học._)
-
-# Cộng đồng
-
-Chưa có...
 
 # Chương trình học
 
 Dành cho những bạn có thể học hoàn toàn bằng Tiếng Anh: Đọc [Chương trình đào tạo Sociology bằng Tiếng Anh TẠI ĐÂY](https://hocbigg.github.io/sociology/)
 
-Chương trình được tham khảo dựa trên [Chương trình đào tạo ngành Xã hội học - USSH](https://ussh.vnu.edu.vn/vi/dao-tao/nganh-xa-hoi-hoc/khung-chuong-trinh-16377.html) (Chủ yếu là dựa vào tên môn cũng như lựa chọn giáo trình, danh sách môn cũng như thứ tự sắp xếp các môn đã được sắp xếp lại giúp tối ưu quá trình tự học, ít nhất là mình mong là vậy).
+- Giáo trình chính: [Xã hội học đại cương (Nguyễn Tuấn Anh chủ biên)](https://archive.org/details/giaotrinhxahoihocdaicuong_hn) – dùng cho phần nền tảng và các chủ đề cơ bản.
+- [Lý thuyết xã hội học (Béla Pokol)](https://www.academia.edu/103319678/L%C3%BD_thuy%E1%BA%BFt_x%C3%A3_h%E1%BB%99i_h%E1%BB%8Dc) – dùng cho lý thuyết cổ điển và hiện đại/đương đại.
 
-## Nền tảng
+## Nền tảng của tư duy xã hội học
 
-Học theo thứ tự từ trên xuống dưới.
+| Chủ đề | Học được những gì | Tài nguyên |
+| --- | --- | --- |
+| 1. Nhập môn Xã hội học | Khái niệm xã hội, cấu trúc xã hội, hành động xã hội, chuẩn mực, vai trò, thiết chế; trí tưởng tượng xã hội học | Giáo trình Xã hội học đại cương (Nguyễn Tuấn Anh) – Chương 1 |
+| 2. Lịch sử hình thành tư duy xã hội học | Bối cảnh xã hội – tri thức ra đời xã hội học; mối liên hệ triết học, kinh tế chính trị và xã hội học | Giáo trình Xã hội học đại cương – Chương 2 |
 
-### Nhận thức xã hội
+## Lý thuyết xã hội học cổ điển
 
-- Xã hội học đại cương: [Giáo trình Xã hội học đại cương - PGS.TS. Nguyễn Tuấn Anh (ĐHQGHN, 2016)](https://archive.org/details/giaotrinhxahoihocdaicuong_hn)
-- Tâm lý học đại cương: [Giáo trình Tâm lý học đại cương - Nguyễn Quang Uẩn (Chủ biên)](https://archive.org/details/tam-ly-hoc-dai-cuong-nguyen-quang-uan-chu-bien)
-- Nhân học đại cương: [Nhân học - Khoa học về sự khác biệt văn hóa của Lâm Minh Châu](https://archive.org/details/nhan-hoc-khoa-hoc-ve-su-khac-biet-van-hoa-lam-minh-chau)
+| Chủ đề | Học được những gì | Tài nguyên |
+| --- | --- | --- |
+| 3. Karl Marx và truyền thống xung đột | Chủ nghĩa duy vật lịch sử, giai cấp, bóc lột, ý thức hệ, đấu tranh giai cấp | Giáo trình Xã hội học đại cương – Chương 2 (phần Marx) |
+| 4. Émile Durkheim và truyền thống chức năng | Sự kiện xã hội, đoàn kết xã hội, phân công lao động, vô chuẩn | Giáo trình Xã hội học đại cương – Chương 2 (phần Durkheim) |
+| 5. Max Weber và truyền thống hành động xã hội | Hành động xã hội, quyền lực, quyền uy, quan liêu, duy lý hóa | Giáo trình Xã hội học đại cương – Chương 2 (phần Weber) |
 
-### Công cụ khoa học
+## Lý thuyết xã hội học hiện đại và đương đại
 
-- Các phương pháp nghiên cứu khoa học: [Cẩm nang Nghiên cứu khoa học xã hội](https://www.researchgate.net/publication/391776587_CAM_NANG_NGHIEN_CUU_KHOA_HOC_XA_HOI_SAI_LAM_PHO_BIEN_TRONG_NGHIEN_CUU_HIEU_DUNG_VE_NGHIEN_CUU)
-- Thống kê cho khoa học xã hội: [Thống Kê Xã Hội Học của Đào Hữu Hồ](https://archive.org/details/thong-ke-xa-hoi-hoc) hoặc [Bài giảng Thống kê Xã hội học 2022 - Cơ sở lý thuyết và ứng dụng (Studocu)](https://www.studocu.vn/vn/document/dai-hoc-su-pham-ha-noi/thong-ke-xa-hoi-hoc/bai-giang-thong-ke-xa-hoi-hoc-2022/25050949) 
-- Nhập môn xử lý dữ liệu định lượng
+| Chủ đề | Học được những gì | Tài nguyên |
+| --- | --- | --- |
+| 6. Các khuynh hướng lý thuyết lớn thế kỷ XX | Chức năng luận hiện đại, xung đột mới, tương tác biểu tượng | Giáo trình Xã hội học đại cương – Chương 2 (các dòng lý thuyết)<br>Lý thuyết xã hội học (Pokol) – Chương II, III |
+| 7. Lý thuyết xã hội đương đại | Cấu trúc – tác nhân, hậu hiện đại, nữ quyền, hậu thực dân, lý thuyết phê phán | Lý thuyết xã hội học (Pokol) – Chương V, X–XVI |
 
-### Nền tảng về lý thuyết
+## Cấu trúc xã hội và các thiết chế
 
-- Lý thuyết xã hội học: [Lý thuyết xã hội học (Academia.edu)](https://www.academia.edu/103319678/Lý_thuyết_xã_hội_học)
-- Phương pháp nghiên cứu xã hội học: [Phương pháp nghiên cứu Xã hội học (Văn Quyết Phạm, Quý Thanh Nguyễn)](https://books.google.com.vn/books/about/Ph%C6%B0%C6%A1ng_ph%C3%A1p_nghi%C3%AAn_c%E1%BB%A9u_x%C3%A3_h%E1%BB%99i_h.html?id=y2mRAQAACAAJ&redir_esc=y)
+| Chủ đề | Học được những gì | Tài nguyên |
+| --- | --- | --- |
+| 8. Gia đình, giáo dục và tôn giáo | Chức năng xã hội, biến đổi lịch sử, vai trò trong tái sản xuất xã hội | Giáo trình Xã hội học đại cương – Chương 5 (thiết chế), Chương 9 (xã hội hóa) |
+| 9. Kinh tế, chính trị và nhà nước | Chủ nghĩa tư bản, thị trường lao động, quyền lực, quản trị, chính sách công | Giáo trình Xã hội học đại cương – Chương 5 (thiết chế), Chương 6 (quyền lực, bất bình đẳng) |
 
-## Chuyên ngành hẹp
+## Phân tầng xã hội và bất bình đẳng
 
-Chọn một trong những chuyên ngành hẹp dưới đây:
+| Chủ đề | Học được những gì | Tài nguyên |
+| --- | --- | --- |
+| 10. Giai cấp, địa vị và di động xã hội | Hệ thống phân tầng, cơ chế tái sản xuất, cơ hội sống | Giáo trình Xã hội học đại cương – Chương 5 (giai cấp/giai tầng), Chương 6 (phân tầng, di động) |
+| 11. Bất bình đẳng giới, chủng tộc và các nhóm | Xây dựng xã hội của khác biệt, kỳ thị, giao thoa bất bình đẳng | Giáo trình Xã hội học đại cương – Chương 6 (bất bình đẳng) |
 
-### Gia đình – Dân số – Giới – Đời sống riêng tư
+## Văn hóa, tương tác và đời sống thường nhật
 
-Hướng này nghiên cứu về: hôn nhân, sinh đẻ, giới tính, già hóa, hộ gia đình, quyền lực trong đời sống riêng tư. Danh sách các môn bao gồm:
+| Chủ đề | Học được những gì | Tài nguyên |
+| --- | --- | --- |
+| 12. Văn hóa và ý nghĩa xã hội | Biểu tượng, giá trị, diễn ngôn, bản sắc | Giáo trình Xã hội học đại cương – Chương 8 |
+| 13. Tương tác xã hội và bản sắc cá nhân | Trình diễn xã hội, tự ngã, đời sống thường nhật | Giáo trình Xã hội học đại cương – Chương 4 (hành động, tương tác), Chương 9 (xã hội hóa) |
 
-- Xã hội học gia đình
-- Xã hội học giới: [Giáo trình Xã hội học giới (PGS.TS. Lê Thị Quý)](https://www.slideshare.net/slideshow/gio-trnh-x-hi-hc-gii/242005780)
-- Xã hội học dân số
-- (bổ trợ) Dân số học đại cương: [Cuốn "Dân số học - Tổng cục dân số"](https://archive.org/details/dan-so-hoc)
+## Biến đổi xã hội và toàn cầu hóa
 
-### Đô thị – Nông thôn – Môi trường
+| Chủ đề | Học được những gì | Tài nguyên |
+| --- | --- | --- |
+| 14. Hiện đại hóa và phát triển xã hội | Công nghiệp hóa, đô thị hóa, biến đổi thiết chế | Giáo trình Xã hội học đại cương – Chương 10 (biến đổi xã hội) |
+| 15. Toàn cầu hóa và xã hội thế giới | Dòng chảy kinh tế – văn hóa – con người; bất bình đẳng toàn cầu | Giáo trình Xã hội học đại cương – Chương 10<br>Lý thuyết xã hội học – Chương VI |
 
-Hướng này nghiên cứu về: di cư, đô thị hóa, phân tầng không gian, biến đổi sinh thái, phát triển bền vững. Danh sách các môn bao gồm:
+## Phương pháp luận xã hội học (mức khái niệm)
 
-- Xã hội học đô thị
-- Xã hội học nông thôn
-- Xã hội học môi trường
-
-### Văn hóa – Tôn giáo – Truyền thông
-
-Hướng này nghiên cứu về: niềm tin, biểu tượng, bản sắc, truyền thông, ý thức hệ, diễn ngôn. Danh sách các môn bao gồm:
-
-- Xã hội học văn hóa: [Xã Hội Học Văn Hóa (NXB Đà Nẵng 2019) - Mai Thị Kim Thanh](https://vietbooks.info/threads/giao-trinh-xa-hoi-hoc-van-hoa-nxb-da-nang-2019-mai-thi-kim-thanh-253-trang.102264/)
-- Xã hội học tôn giáo
-- Xã hội học truyền thông đại chúng và dư luận xã hội
-
-### Quyền lực – Nhà nước – Luật – Chính trị
-
-Hướng này nghiên cứu về: quyền lực, luật pháp, nhà nước, trật tự xã hội, tội phạm. Danh sách các môn bao gồm:
-
-- Xã hội học chính trị
-- Xã hội học pháp luật và tội phạm
-- Xã hội học quản lý (môn bổ trợ, tùy chọn)
-
-### Kinh tế – Lao động – Tổ chức
-
-Hướng này nghiên cứu về: thị trường, doanh nghiệp, quản trị, công nghệ, tổ chức xã hội. Danh sách các môn bao gồm:
-
-- Xã hội học kinh tế
-- Xã hội học quản lý
-- Xã hội học khoa học và công nghệ (môn bổ trợ, tùy chọn)
-
-### Xã hội học toàn cầu & hiện đại
-
-Đây là phần học bổ trợ cho các chuyên ngành hẹp ở trên để đưa bạn tới các vấn đề liên quan đến toàn cầu hóa, bất bình đẳng toàn cầu, biến đổi xã hội lớn. Danh sách các môn bao gồm:
-
-- Các vấn đề toàn cầu
-- Xã hội học toàn cầu
+| Chủ đề | Học được những gì | Tài nguyên |
+| --- | --- | --- |
+| 16. Nhận thức luận và logic nghiên cứu xã hội | Định lượng – định tính, diễn giải – thực chứng, vai trò của lý thuyết | Giáo trình Xã hội học đại cương – Chương 3 |
+| 17. Các phương pháp cơ bản trong xã hội học | Khảo sát, phỏng vấn, quan sát, phân tích tài liệu (mức khái niệm) | Giáo trình Xã hội học đại cương – Chương 3 |
